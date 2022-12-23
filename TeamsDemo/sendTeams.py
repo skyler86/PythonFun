@@ -32,6 +32,6 @@ class ConnectorCard:
 
 
 if __name__ == "__main__":
-    myTeamsMessage = ConnectorCard(https://lenovobeijing.webhook.office.com/webhookb2/58df5cea-0eb6-4e5b-a01e-cacfc6d19e6e@5c7d0b28-bdf8-410c-aa93-4df372b16203/IncomingWebhook/5fdb9c2b330740f1beb6459d1287d210/df8158c5-308c-45c3-be28-af7ea258765b)
+    myTeamsMessage = ConnectorCard(https://xxxxxx.webhook.office.com/webhookb2/.....)
     myTeamsMessage.text("this is my test message to the teams channel.")
     myTeamsMessage.send()
